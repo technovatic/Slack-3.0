@@ -36,7 +36,7 @@ function Sidebar() {
     <div className="sidebar">
       <div className="sidebar_header">
         <div className="sidebar_info">
-          <h2>Programmer</h2>
+          <h2>Vishal Kelur</h2>
           <h3>
             <FiberManualRecordIcon />
             {user?.displayName}
